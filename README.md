@@ -41,3 +41,7 @@ python predict.py --input customers.csv --model models/gbm_final.pkl
 ```bash
 pip install -r requirements.txt
 ```
+# Additional Documentation
+
+## Installation & Setup
+see README
